@@ -29,7 +29,7 @@ By leveraging **geometric-information duality**, CAD diagnoses hallucinations as
 
 ```bash
 # Clone the repository
-git clone https://github.com/Lexiang-Xiong/Anatomy-of-a-Lie.git
+git clone https://github.com/Lexiang-Xiong/CAD
 cd Anatomy-of-a-Lie
 
 # Create conda environment
