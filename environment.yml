@@ -1,0 +1,52 @@
+name: fact-entropy
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip>=23.0
+  - pip:
+    # Core
+    - torch==2.8.0
+    - torchvision==0.23.0
+    - numpy==1.26.4
+    - pandas==2.3.3
+
+    # Transformers
+    - transformers==4.45.2
+    - accelerate==0.33.0
+    - tokenizers==0.20.3
+    - safetensors==0.6.2
+
+    # Data
+    - datasets==4.2.0
+    - pillow==11.3.0
+    - pyarrow==21.0.0
+
+    # ML
+    - scikit-learn==1.7.2
+    - scipy==1.15.3
+    - joblib==1.5.2
+    - threadpoolctl==3.6.0
+
+    # Visualization
+    - matplotlib==3.10.7
+    - seaborn==0.13.2
+    - plotly==6.4.0
+    - adjusttext==1.3.0
+
+    # Utilities
+    - tqdm==4.67.1
+    - pyyaml==6.0.3
+    - requests==2.32.5
+
+    # Optional
+    - qwen-vl-utils==0.0.14
+    - bitsandbytes==0.48.1
+
+    # Additional
+    - einops==0.8.1
+    - decord==0.6.0
+    - av==16.0.1
