@@ -28,7 +28,7 @@ from src.detector.cad_gmm import CognitiveAnomalyDetector
 
 
 def setup_style():
-    """Configure publication-ready style."""
+    """Configure high-quality research style."""
     sns.set_theme(style="ticks", context="paper")
     plt.rcParams['font.family'] = 'serif'
     plt.rcParams['font.serif'] = ['Times New Roman', 'DejaVu Serif']

@@ -1,11 +1,9 @@
 """
 ROC Curve Visualization Script.
 
-This script generates publication-ready ROC curves including:
+This script generates high-quality ROC curves including:
 - Standard linear scale ROC
 - Log-Log scale ROC (for low FPR analysis)
-
-The visualization follows ECCV/CVPR publication standards.
 
 Usage:
     python visualizations/plot_roc.py
@@ -24,9 +22,9 @@ import seaborn as sns
 from pathlib import Path
 
 
-# Set publication-ready style
+# Set high-quality style
 def setup_style():
-    """Configure matplotlib for publication-quality figures."""
+    """Configure matplotlib for research-quality figures."""
     sns.set_theme(style="ticks", context="paper")
     plt.rcParams['font.family'] = 'serif'
     plt.rcParams['font.serif'] = ['Times New Roman', 'DejaVu Serif']

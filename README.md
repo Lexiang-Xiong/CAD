@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Paper](https://img.shields.io/badge/arXiv-2603.XXXXX-b31b1b.svg)](https://arxiv.org)
 
-Official implementation of the paper **"Anatomy of a Lie: A Multi-Stage Diagnostic Framework for Tracing Hallucinations in Vision-Language Models"** (ECCV 2026).
+Official implementation of **"Anatomy of a Lie: A Multi-Stage Diagnostic Framework for Tracing Hallucinations in Vision-Language Models"**.
 
 ## Overview
 
@@ -115,7 +115,7 @@ python scripts/evaluation/run_ablation.py \
 
 ## Reproducing Paper Figures
 
-We provide publication-ready visualization scripts used in the paper.
+We provide visualization scripts used in the paper.
 
 ```bash
 # Figure 2: ROC Panels (Linear & Log-Log)
@@ -157,7 +157,7 @@ Anatomy-of-a-Lie/
 │       ├── run_cad_eval.py
 │       └── run_ablation.py
 │
-├── visualizations/             # Publication-ready plotting scripts
+├── visualizations/             # Plotting scripts
 │   ├── plot_roc.py
 │   ├── plot_manifold.py
 │   ├── plot_ablation.py
@@ -188,7 +188,6 @@ If you find our work or this codebase helpful, please consider citing our paper:
 @article{anonymous2026anatomy,
   title={Anatomy of a Lie: A Multi-Stage Diagnostic Framework for Tracing Hallucinations in Vision-Language Models},
   author={Anonymous},
-  booktitle={European Conference on Computer Vision (ECCV)},
   year={2026}
 }
 ```

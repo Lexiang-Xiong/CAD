@@ -1,7 +1,7 @@
 """
 Ablation Study Visualization Script.
 
-This script generates publication-ready ablation study plots:
+This script generates ablation study plots:
 - Synergy Gain: improvement from combining metrics vs best single
 - Component Impact: AUC drop when removing each metric
 
@@ -26,7 +26,7 @@ from pathlib import Path
 
 
 def setup_style():
-    """Configure publication-ready style."""
+    """Configure high-quality research style."""
     sns.set_theme(style="ticks", context="paper")
     plt.rcParams['font.family'] = 'serif'
     plt.rcParams['font.serif'] = ['Times New Roman', 'DejaVu Serif']
