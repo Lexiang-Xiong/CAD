@@ -5,6 +5,17 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Paper](https://img.shields.io/badge/arXiv-2603.15557-b31b1b.svg)](https://arxiv.org/abs/2603.15557)
 
+
+</div>
+
+<div>
+Lexiang Xiong*&emsp;Qi Li*&emsp;Jingwen Ye&emsp;Xinchao Wang<sup>&dagger;</sup>
+</div>
+<div>
+    <a href="https://sites.google.com/view/xml-nus/people?authuser=0" target="_blank">xML-Lab</a>, National University of Singapore&emsp;
+    <sup>&dagger;</sup>corresponding author 
+</div>
+</div>
 </div>
 
 
