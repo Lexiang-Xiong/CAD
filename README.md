@@ -8,12 +8,14 @@
 
 </div>
 
-<div>
+<div align="center">
 Lexiang Xiong*&emsp;Qi Li*&emsp;Jingwen Ye&emsp;Xinchao Wang<sup>&dagger;</sup>
 </div>
-<div>
+<div align="center">
     <a href="https://sites.google.com/view/xml-nus/people?authuser=0" target="_blank">xML-Lab</a>, National University of Singapore&emsp;
-    <sup>&dagger;</sup>corresponding author 
+    <sup>&dagger;</sup>corresponding author;
+    <sup>*;</sup>equal contribition;
+    
 </div>
 </div>
 </div>
