@@ -194,7 +194,7 @@ If you find our work or this codebase helpful, please consider citing our paper:
 
 ## Acknowledgements
 
-We thank the open-source VLM community, particularly the maintainers of [POPE](https://github.com/RUCAIBox/POPE), [Llava](https://github.com/haotian-liu/LLaVA), [Qwen-VL](https://github.com/QwenLM/Qwen-VL), and [DeepSeek-VL](https://github.com/deepseek-ai/DeepSeek-VL2) for their invaluable resources.
+We thank the open-source VLM community, particularly the maintainers of [POPE](https://github.com/RUCAIBox/POPE), [Llava](https://github.com/haotian-liu/LLaVA), [Idefics2](https://huggingface.co/blog/idefics2), [Qwen-VL](https://github.com/QwenLM/Qwen-VL), and [DeepSeek-VL](https://github.com/deepseek-ai/DeepSeek-VL2) for their invaluable resources.
 
 ## License
 
