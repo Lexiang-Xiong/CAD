@@ -15,8 +15,9 @@ Lexiang Xiong*&emsp;Qi Li*&emsp;Jingwen Ye&emsp;Xinchao Wang<sup>&dagger;</sup>
     <a href="https://sites.google.com/view/xml-nus/people?authuser=0" target="_blank">xML-Lab</a>, National University of Singapore&emsp;
 </div>
 <div align="center">
-    <sup>&dagger;</sup>corresponding author;
-    <sup>*</sup>equal contribition
+    <sup>*</sup>equal contribition;
+    <sup>&dagger;</sup>corresponding author
+    
     
 </div>
 </div>
@@ -202,10 +203,14 @@ Anatomy-of-a-Lie/
 If you find our work or this codebase helpful, please consider citing our paper:
 
 ```bibtex
-@article{anonymous2026anatomy,
-  title={Anatomy of a Lie: A Multi-Stage Diagnostic Framework for Tracing Hallucinations in Vision-Language Models},
-  author={Anonymous},
-  year={2026}
+@misc{xiong2026anatomyliemultistagediagnostic,
+      title={Anatomy of a Lie: A Multi-Stage Diagnostic Framework for Tracing Hallucinations in Vision-Language Models}, 
+      author={Lexiang Xiong and Qi Li and Jingwen Ye and Xinchao Wang},
+      year={2026},
+      eprint={2603.15557},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2603.15557}, 
 }
 ```
 
