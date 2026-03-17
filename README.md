@@ -15,8 +15,8 @@ Lexiang Xiong*&emsp;Qi Li*&emsp;Jingwen Ye&emsp;Xinchao Wang<sup>&dagger;</sup>
     <a href="https://sites.google.com/view/xml-nus/people?authuser=0" target="_blank">xML-Lab</a>, National University of Singapore&emsp;
 </div>
 <div align="center">
-    <sup>*</sup>equal contribition;
-    <sup>&dagger;</sup>corresponding author
+    <sup>*</sup>Equal contribition;
+    <sup>&dagger;</sup>Corresponding author
     
     
 </div>
