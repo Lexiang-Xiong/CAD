@@ -8,7 +8,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Paper](https://img.shields.io/badge/arXiv-2603.15557-b31b1b.svg)](https://arxiv.org/abs/2603.15557)
 
-Official implementation of **"Anatomy of a Lie: A Multi-Stage Diagnostic Framework for Tracing Hallucinations in Vision-Language Models"**.
 
 ## Overview
 
