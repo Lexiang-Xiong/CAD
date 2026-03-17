@@ -9,20 +9,22 @@
 </div>
 
 <div align="center">
-Lexiang Xiong*&emsp;Qi Li*&emsp;Jingwen Ye&emsp;Xinchao Wang<sup>&dagger;</sup>
-</div>
-<div align="center">
-    <a href="https://sites.google.com/view/xml-nus/people?authuser=0" target="_blank">xML-Lab</a>, National University of Singapore&emsp;
-</div>
-<div align="center">
-    <sup>*</sup>Equal contribition;
-    <sup>&dagger;</sup>Corresponding author
-    
-    
-</div>
-</div>
+  Lexiang Xiong<sup>1*</sup>&emsp;Qi Li<sup>1*</sup>&emsp;Jingwen Ye<sup>2</sup>&emsp;Xinchao Wang<sup>1&dagger;</sup>
 </div>
 
+<div align="center">
+  <sup>1</sup>National University of Singapore&emsp;
+  <sup>2</sup>Monash University
+</div>
+
+<div align="center">
+  <a href="https://sites.google.com/view/xml-nus/people?authuser=0" target="_blank">xML-Lab</a>
+</div>
+
+<div align="center">
+  <sup>*</sup>Equal contribution;&emsp;
+  <sup>&dagger;</sup>Corresponding author
+</div>
 
 ## Overview
 
