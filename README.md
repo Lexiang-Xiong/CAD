@@ -13,13 +13,10 @@
 </div>
 
 <div align="center">
-  <sup>1</sup>National University of Singapore&emsp;
+  <sup>1</sup><a href="https://sites.google.com/view/xml-nus/people?authuser=0" target="_blank">xML-Lab</a>, National University of Singapore&emsp;
   <sup>2</sup>Monash University
 </div>
 
-<div align="center">
-  <a href="https://sites.google.com/view/xml-nus/people?authuser=0" target="_blank">xML-Lab</a>
-</div>
 
 <div align="center">
   <sup>*</sup>Equal contribution;&emsp;
