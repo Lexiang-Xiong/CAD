@@ -202,14 +202,11 @@ Anatomy-of-a-Lie/
 If you find our work or this codebase helpful, please consider citing our paper:
 
 ```bibtex
-@misc{xiong2026anatomyliemultistagediagnostic,
-      title={Anatomy of a Lie: A Multi-Stage Diagnostic Framework for Tracing Hallucinations in Vision-Language Models}, 
-      author={Lexiang Xiong and Qi Li and Jingwen Ye and Xinchao Wang},
-      year={2026},
-      eprint={2603.15557},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2603.15557}, 
+@article{xiong2026anatomy,
+  title={Anatomy of a Lie: A Multi-Stage Diagnostic Framework for Tracing Hallucinations in Vision-Language Models},
+  author={Xiong, Lexiang and Li, Qi and Ye, Jingwen and Wang, Xinchao},
+  journal={arXiv preprint arXiv:2603.15557},
+  year={2026}
 }
 ```
 
