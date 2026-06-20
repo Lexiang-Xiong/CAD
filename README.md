@@ -202,10 +202,10 @@ Anatomy-of-a-Lie/
 If you find our work or this codebase helpful, please consider citing our paper:
 
 ```bibtex
-@article{xiong2026anatomy,
+@inproceedings{xiong2026anatomy,
   title={Anatomy of a Lie: A Multi-Stage Diagnostic Framework for Tracing Hallucinations in Vision-Language Models},
   author={Xiong, Lexiang and Li, Qi and Ye, Jingwen and Wang, Xinchao},
-  journal={arXiv preprint arXiv:2603.15557},
+  booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
   year={2026}
 }
 ```
